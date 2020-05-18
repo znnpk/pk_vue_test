@@ -1,0 +1,2 @@
+webpackJsonp([15],{EVWK:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{attrs:{id:"myDiv"}},[this._v("\n这个应该是个对外展示的大屏幕展示\n  ")])},staticRenderFns:[]};var i=t("VU/8")({name:"bigScreenShow"},r,!1,function(e){t("spRv")},null,null);n.default=i.exports},spRv:function(e,n){}});
+//# sourceMappingURL=15.6d364f2bcbc6f4cae189.js.map
